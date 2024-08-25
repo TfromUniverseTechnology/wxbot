@@ -1,5 +1,5 @@
 
-from zhipuai import ZhipuAI
+from zhipuai import ZhipuAI  
 
 class AIInterface:
     def __init__(self, apikey):
